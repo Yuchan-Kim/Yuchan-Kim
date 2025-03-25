@@ -1,42 +1,22 @@
-# Hi there! 👋 I'm Yuchan Kim 🚀
+# 안녕하세요! 👋 김유찬입니다 🚀
 
-[![GitHub followers](https://img.shields.io/github/followers/yuchan-kim?style=social)](https://github.com/yuchan-kim)
+[![GitHub followers](https://img.shields.io/github/followers/yuchan-kim?style=social)](https://github.com/yuchan-kim)  
 [![Hits](https://komarev.com/ghpvc/?username=yuchan-kim&color=blue)](https://github.com/yuchan-kim)
 
-## 🚀 About Me
-💡 Passionate about building innovative **web applications** and exploring the world of **AI**.  
-🎓 Graduated from **Boston University** with a degree in **Computer Science**.  
-🧠 Currently focused on **AI development**, **FastAPI**, and **OpenAI API integration**.  
-🌍 Based in **Seoul, South Korea**, constantly building and learning!
+## 👨‍💻 About Me
+안녕하세요! **백엔드와 AI 모델을 융합한 서비스 개발**에 관심이 많은 개발자 **김유찬**입니다.  
+**Boston University**에서 컴퓨터공학을 전공했으며, 현재는 서울에서 실전 중심의 프로젝트들을 통해 역량을 쌓고 있습니다.
 
-## 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript, TailwindCSS  
-- **Backend:** FastAPI, Node.js, MySQL, PostgreSQL  
-- **DevOps & Cloud:** AWS (EC2, RDS, Route 53, S3), Docker  
-- **AI & ML:** OpenAI API, Hugging Face, Computer Vision  
-- **Tools:** Git, Notion, Jira, Figma
+**Java(Spring Boot, JDBC, JPA)** 기반 백엔드 시스템을 안정적으로 설계하는 것을 좋아하며,  
+**AI 기술을 다룰 때는 FastAPI**를 선호하여, 두 영역을 유기적으로 연결하는 데에 중점을 두고 있습니다.
 
-## 📌 Current Projects
-🔹 **Apple Website Clone** – Rebuilding Apple's website for frontend/UI practice.  
-🔹 **MTL-AI** – Integrating AI features into a web app using FastAPI.  
-🔹 **YouTube Landmark Analyzer** – Detects regions/landmarks in YouTube videos and provides timestamps using AI.
+## 🛠 기술 스택
+- **프론트엔드:** React.js, JavaScript 
+- **백엔드:** Spring boot (JPA, JDBC), FastAPI, MySQL  
+- **클라우드 & DevOps:** AWS (EC2, RDS, Route 53, S3), Docker  
+- **AI:** OpenAI API, Hugging Face  
+- **협업 및 도구:** Git, Notion, Figma
 
-## 🌱 Learning & Goals
-- Deepening knowledge in **AI & Deep Learning**  
-- Mastering **FastAPI** and backend **scalability**  
-- Exploring **microservice architecture**  
-- Contributing to meaningful **open-source** projects
+## 📫 연락처
+📧 이메일: [yuchankim0906@gmail.com](mailto:yuchankim0906@gmail.com)  
 
-## 📫 Get in Touch
-📧 Email: [yuchan@example.com](mailto:yuchan@example.com)  
-💼 LinkedIn: [linkedin.com/in/yuchankim](https://linkedin.com/in/yuchankim)  
-🌐 Portfolio: [yuchankim.dev](https://yuchankim.dev)  
-🐦 Twitter: [@yuchan_codes](https://twitter.com/yuchan_codes)
-
-## 🎵 Fun Facts
-🎸 I love playing guitar and composing music.  
-🏃 I’m into running, fitness, and challenge-based goals.  
-🍳 Big fan of cooking and experimenting with new recipes!
-
----
-🚀 **Let’s connect, collaborate, and build something awesome!**
