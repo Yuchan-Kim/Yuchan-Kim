@@ -12,7 +12,8 @@
 
 ## 🛠 기술 스택
 - **프론트엔드:** React.js, JavaScript 
-- **백엔드:** Spring boot (JPA, JDBC), FastAPI, MySQL  
+- **백엔드:** Spring boot (JPA, Mybatis), FastAPI
+- **데이터베이스** MySQL  
 - **클라우드 & DevOps:** AWS (EC2, RDS, Route 53, S3), Docker  
 - **AI:** OpenAI API, Hugging Face  
 - **협업 및 도구:** Git, Notion, Figma
